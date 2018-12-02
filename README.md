@@ -8,7 +8,7 @@ operations.cpp//
 contains declarations for the operation functions defined in operations.h
 
 same goes for other class.
-main only stores and calls the functions
+main only calls the functions
 
 OUTPUT:
 
